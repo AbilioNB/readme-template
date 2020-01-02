@@ -79,11 +79,10 @@ edit autoexec.bat
 
   
 
-Alguns exemplos interessantes e úteis sobre como seu projeto pode ser utilizado. Adicione blocos de códigos e, se necessário, screenshots.
+>Alguns exemplos de como seu projeto pode ser utilizado. Adicione blocos de códigos e, se necessário, screenshots.
 
   
 
-_Para mais exemplos, consulte a [Wiki][wiki]._
 
   
 
@@ -91,7 +90,7 @@ _Para mais exemplos, consulte a [Wiki][wiki]._
 
   
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
+Descreva como instalar todas as dependências para desenvolvimento e como rodar.
 
   
 
